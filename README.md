@@ -13,4 +13,4 @@ Este projeto foi criado para praticar o processo de:
 
 ## Licença
 
-Este projeto é apenas para fins de aprendizado.
+Este projeto está licenciado sob os termos da [MIT License](LICENSE).
