@@ -4,7 +4,7 @@ Este é um repositório de prática para aprender o fluxo de Pull Requests no Gi
 
 ## Sobre
 
-Este projeto foi criado para pratica o processo de:
+Este projeto foi criado para praticar o processo de:
 
 1. Criar uma branch
 2. Fazer uma alteração
